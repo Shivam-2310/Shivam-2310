@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shivam+Nagpal+%F0%9F%91%8B;Agentic+AI+%2B+Java+Backend+Engineer;Building+things+that+actually+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shivam+Nagpal+%F0%9F%91%8B;AI+%2B+Java+Backend+Engineer;Building+things+that+actually+work.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Shivam-2310&style=flat-square&color=58A6FF" />
 
@@ -80,9 +80,9 @@ education : B.Tech CSE — GGSIPU (9.16 CGPA, 2025)
 | Project | Stack | Description |
 |---|---|---|
 | [PageBrain](https://github.com/Shivam-2310/PageBrain) | Python · FastAPI · React · LangChain · Groq · FAISS | RAG-powered website chatbot with embeddable React widget, async crawling and per-bot vector indexing |
-| [Intelligent Server Console](https://github.com/Shivam-2310) | Java · Spring Boot · React · Ollama | Real-time monitoring, AI risk scoring, sub-10s incident response |
-| [ShortAI](https://github.com/Shivam-2310) | Java · Spring Boot · Redis · Ollama | URL shortener with AI summarization and <50ms redirects |
-| [Food Ordering Platform](https://github.com/Shivam-2310) | Python · Flask · SQLite | Dual-role platform with RBAC and personalized recommendations |
+| [Intelligent Server Console](https://github.com/Shivam-2310/Server_Management_Console) | Java · Spring Boot · React · Ollama | Real-time monitoring, AI risk scoring, sub-10s incident response |
+| [ShortAI](https://github.com/Shivam-2310/ShortAI) | Java · Spring Boot · Redis · Ollama | URL shortener with AI summarization and <50ms redirects |
+| [Food Ordering Platform](https://github.com/Shivam-2310/food-delivery) | Python · Flask · SQLite | Dual-role platform with RBAC and personalized recommendations |
 
 ---
 
