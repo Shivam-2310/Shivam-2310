@@ -15,7 +15,7 @@ name      : Shivam Nagpal
 role      : Associate Engineer @ Nagarro
 location  : New Delhi, India
 focus     : Agentic AI · LLM Pipelines · Java Backend
-education : B.Tech CSE — GGSIPU (9.16 CGPA, 2025)
+education : B.Tech CSE — GGSIPU (2025)
 ```
 
 - 🤖 Building **AI agents** that automate end-to-end workflows in production
