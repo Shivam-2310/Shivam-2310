@@ -21,7 +21,6 @@ education : B.Tech CSE — GGSIPU (2025)
 - 🤖 Building **AI agents** that automate end-to-end workflows in production
 - 🔍 Working on **LLM fine-tuning**, RAG pipelines, and NL2SQL systems
 - ☕ Also a Java person — Spring Boot, microservices, and clean backend architecture
-- 🏅 AIR **#102 / 20,000+** — Naukri Campus Young Turks
 
 ---
 
