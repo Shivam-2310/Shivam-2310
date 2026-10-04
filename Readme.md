@@ -12,7 +12,7 @@
 
 ```yaml
 name      : Shivam Nagpal
-role      : Associate Engineer @ Nagarro
+role      : Engineer @ Nagarro
 location  : New Delhi, India
 focus     : Agentic AI · LLM Pipelines · Java Backend
 education : B.Tech CSE — GGSIPU (2025)
